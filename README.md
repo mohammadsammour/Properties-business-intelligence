@@ -26,6 +26,38 @@ This project aims to address this challenge by:
 | DAX | Feature engineering and dynamic KPI calculations |
 | CSV | Storage and transfer of extracted listing data |
 
+
+## Power BI Report Preview
+
+The interactive Power BI report consists of three pages, providing insights into property prices, market trends, and property characteristics across Amman.
+
+### 1. Property Market Overview
+
+An overview of the real estate market, featuring key pricing indicators, location-based comparisons, and interactive visualizations.
+
+![Property Market Overview](images/PropertyMarketPage.png)
+
+### 2. Price Analysis
+
+Explores how property location, size, and other characteristics relate to property prices, helping identify pricing patterns across the collected listings.
+
+![Property Price Analysis](images/PriceAnalysisPage.png)
+
+### 3. General Market Insights
+
+Analyzes the distribution of luxury and standard properties, floor types, outdoor areas, and the relationship between property characteristics and prices.
+
+![General Market Insights](images/GeneralInsightsPage.png)
+
+---
+
+### Full Power BI Report
+
+For a complete view of all report pages:
+
+[View the Complete Report (PDF)](images/PropertiesDashBoard.pdf)
+
+
 ## Dataset
 
 The dataset was collected from [Homes Jordan](https://www.homes-jordan.com/en) using ParseHub.
